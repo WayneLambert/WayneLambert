@@ -1,3 +1,5 @@
+![Build README](https://github.com/WayneLambert/WayneLambert/workflows/Build%20README/badge.svg?branch=master&event=push)
+
 ### Welcome to my GitHub Profile
 
 My name is Wayne Lambert and I live in Birmingham, UK.
