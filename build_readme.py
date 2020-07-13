@@ -11,7 +11,7 @@ def main():
     readme.write_text("\n".join(chunks))
 
 
-def get_opening_text():
+def get_opening_text() -> list:
     s = []
     with open('intro.txt', 'r') as file:
         [s.append(line.strip()) for line in file.readlines()]
@@ -27,10 +27,10 @@ def build_latest_blog_posts_str(posts: list) -> str:
     return s
 
 
-def get_latest_blog_posts():
-    XML_FEED_LOCATION = "http://localhost:8001/blog/sitenews/atom/"
+def get_latest_blog_posts() -> list:
+    XML_FEED_LOCATION = "https://waynelambert.dev/blog/sitenews/atom/"
     chunks = ["#### Latest Blog Posts\n"]
-    posts = feedparser.parse(XML_FEED_LOCATION)["entries"][:10]
+    posts = feedparser.parse(XML_FEED_LOCATION)["entries"][:5]
     chunks.extend(build_latest_blog_posts_str(posts))
     return chunks
 

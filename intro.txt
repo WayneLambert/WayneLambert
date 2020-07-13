@@ -6,9 +6,5 @@ I am passionate about web development with Django and Python. I also enjoy analy
 
 #### Links
 
-- [Portfolio Home Page](https://waynelambert.dev/)
-- [Blog Home](https://waynelambert.dev/blog/)
-- [Detailed About Me](https://waynelambert.dev/about-me/)
-- [Contact Me](https://waynelambert.dev/contact/)
-- [LinkedIn](https://www.linkedin.com/in/waynealambert/)
-- [StackOverflow](https://stackoverflow.com/users/11211077/wayne-lambert?tab=profile)
+[Portfolio Home Page](https://waynelambert.dev/) | [Blog Home](https://waynelambert.dev/blog/) | [About Me](https://waynelambert.dev/about-me/) | 
+[Contact Me](https://waynelambert.dev/contact/) | [LinkedIn](https://www.linkedin.com/in/waynealambert/) | [StackOverflow](https://stackoverflow.com/users/11211077/wayne-lambert?tab=profile)
