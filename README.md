@@ -6,8 +6,12 @@ I am passionate about web development with Django and Python. I also enjoy analy
 
 #### Links
 
+<<<<<<< HEAD
 [Portfolio Home Page](https://waynelambert.dev/) | [Blog Home](https://waynelambert.dev/blog/) | [About Me](https://waynelambert.dev/about-me/) |
 [Contact Me](https://waynelambert.dev/contact/) | [LinkedIn](https://www.linkedin.com/in/waynealambert/) | [StackOverflow](https://stackoverflow.com/users/11211077/wayne-lambert?tab=profile)
+=======
+[:house: Portfolio Home Page](https://waynelambert.dev/) | [:pencil: Blog Home](https://waynelambert.dev/blog/) | [:man: About Me](https://waynelambert.dev/about-me/) | [:email: Contact Me](https://waynelambert.dev/contact/) | [:link: LinkedIn](https://www.linkedin.com/in/waynealambert/) | [:question: StackOverflow](https://stackoverflow.com/users/11211077/wayne-lambert?tab=profile)
+>>>>>>> parent of ebccd2d... Update README
 
 #### Latest Blog Posts
 
