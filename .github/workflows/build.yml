@@ -31,5 +31,7 @@ jobs:
     - name: Commit and push if README changed
       run: |-
         git diff
+        git config --global user.email "wayne.a.lambert@gmail.com"
+        git config --global user.name $GITHUB_ACTOR
         git diff --quiet || (git add README.md && git commit -m "Update README")
         git push
