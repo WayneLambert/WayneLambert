@@ -28,3 +28,8 @@ jobs:
       run: |-
         python build_readme.py
         cat README.md
+    - name: Commit and push if README changed
+      run: |-
+        git diff
+        git diff --quiet || (git add README.md && git commit -m "Update README")
+        git push
