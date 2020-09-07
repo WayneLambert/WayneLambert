@@ -13,6 +13,10 @@ Please feel free to check my portfolio or reach out using the following channels
 
 #### Latest Blog Posts
 
+➔ [How to Implement List View Pagination with Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
+(Last updated by Wayne Lambert on 2020-09-07)
+
+
 ➔ [Integrate a Bootstrap File Upload Utility into Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-into-django/)
 (Last updated by Wayne Lambert on 2020-07-04)
 
@@ -27,8 +31,4 @@ Please feel free to check my portfolio or reach out using the following channels
 
 ➔ [Calculating Prime Numbers Algorithm in Python](https://waynelambert.dev/blog/post/prime-numbers-algorithm-in-Python/)
 (Last updated by Wayne Lambert on 2020-07-03)
-
-
-➔ [Implementing Selection Sort Algorithm in Python](https://waynelambert.dev/blog/post/implementing-selection-sort-algorithm-python/)
-(Last updated by Wayne Lambert on 2020-01-29)
 
