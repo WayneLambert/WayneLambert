@@ -18,7 +18,7 @@ Please feel free to check my portfolio or reach out using the following channels
 
 
 ➔ [Integrate a Bootstrap File Upload Utility into Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-into-django/)
-(Last updated by Wayne Lambert on 2020-07-04)
+(Last updated by Wayne Lambert on 2020-09-09)
 
 
 ➔ [Finding the Largest or Smallest N Items in Python](https://waynelambert.dev/blog/post/finding-largest-smallest-n-items/)
