@@ -29,6 +29,6 @@ Please feel free to check my portfolio or reach out using the following channels
 (Last updated by Wayne Lambert on 2020-10-02)
 
 
-➔ [How to Keep a History of the N Last Items in Python](https://waynelambert.dev/blog/post/how-to-keep-history-last-n-items-python/)
-(Last updated by Wayne Lambert on 2020-07-02)
+➔ [How To Keep A History Of The N Last Items In Python](https://waynelambert.dev/blog/post/how-to-keep-history-last-n-items-python/)
+(Last updated by Wayne Lambert on 2020-10-02)
 
