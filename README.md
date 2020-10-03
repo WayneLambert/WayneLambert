@@ -1,15 +1,19 @@
-### Welcome to my GitHub Profile
+### Welcome to my GitHub Profile:exclamation:
 
-My name is Wayne Lambert and I live in Birmingham, UK. Please accept my socially distanced greeting during these strange times. :punch: :smiley:
+My name is Wayne Lambert and I live in Birmingham, :uk:.
 
-I'm passionate about web development with Django and Python. I also enjoy analysing datasets with Python Data Science libraries, travelling, and reading.
+I'm passionate about web development :globe_with_meridians: with Django and Python. I also enjoy analysing datasets :bar_chart: with Python Data Science libraries, travelling :airplane:, and reading :book:.
 
 #### Links
 
 Please feel free to check my portfolio or reach out using the following channels.
 
-[![Portfolio Home](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/home.svg)](https://waynelambert.dev/)|[![Blog Home](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/blog.svg)](https://waynelambert.dev/blog/)|[![About Me](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/user.svg)](https://waynelambert.dev/about-me/)|[![Contact Me](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/envelope.svg)](https://waynelambert.dev/contact/)|[![LinkedIn](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/linkedin-in.svg)](https://www.linkedin.com/in/waynealambert/)|[![Stack Overflow](https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/stack-overflow.svg)](https://stackoverflow.com/users/11211077/wayne-lambert?tab=profile)|
-|---|---|---|---|---|---|
+<a href="https://waynelambert.dev/"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/home.svg" width="65" height="60"/></a>
+<a href="https://waynelambert.dev/blog/"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/blog.svg" width="65" height="60" /></a>
+<a href="https://waynelambert.dev/about-me/"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/user.svg" width="65" height="60" /></a>
+<a href="https://waynelambert.dev/contact/"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/envelope.svg" width="65" height="60" /></a>
+<a href="https://www.linkedin.com/in/waynealambert/"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/linkedin-in.svg" width="65" height="60" /></a>
+<a href="https://stackoverflow.com/users/11211077/wayne-lambert?tab=profile"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/stack-overflow.svg" width="65" height="60" /></a>
 
 #### Latest Blog Posts
 
