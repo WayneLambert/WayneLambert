@@ -20,7 +20,11 @@ Please feel free to <a href="https://waynelambert.dev/portfolio">check out my po
 
 #### Latest Blog Posts
 
-➔ [How To Keep A History Of The N Last Items In Python](https://waynelambert.dev/blog/post/how-to-keep-history-last-n-items-python/)
+➔ [How to Implement List View Pagination With Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
+(Last updated by Wayne Lambert on 2020-10-03)
+
+
+➔ [How to Keep a History of the Last n Items in Python](https://waynelambert.dev/blog/post/how-to-keep-history-last-n-items-python/)
 (Last updated by Wayne Lambert on 2020-10-03)
 
 
@@ -30,10 +34,6 @@ Please feel free to <a href="https://waynelambert.dev/portfolio">check out my po
 
 ➔ [Quick Tip: Vs Code Snippet For Python Developers](https://waynelambert.dev/blog/post/quick-tip-vs-code-snippet-for-python-developers/)
 (Last updated by Wayne Lambert on 2020-09-29)
-
-
-➔ [How To Implement List View Pagination With Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
-(Last updated by Wayne Lambert on 2020-09-23)
 
 
 ➔ [Integrate a Bootstrap File Upload Utility into Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-into-django/)
