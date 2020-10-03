@@ -17,6 +17,14 @@ Please feel free to check my portfolio or reach out using the following channels
 
 #### Latest Blog Posts
 
+➔ [How To Keep A History Of The N Last Items In Python](https://waynelambert.dev/blog/post/how-to-keep-history-last-n-items-python/)
+(Last updated by Wayne Lambert on 2020-10-03)
+
+
+➔ [Finding The Largest Or Smallest N Items In Python](https://waynelambert.dev/blog/post/finding-largest-smallest-n-items/)
+(Last updated by Wayne Lambert on 2020-10-02)
+
+
 ➔ [Quick Tip: Vs Code Snippet For Python Developers](https://waynelambert.dev/blog/post/quick-tip-vs-code-snippet-for-python-developers/)
 (Last updated by Wayne Lambert on 2020-09-29)
 
@@ -27,12 +35,4 @@ Please feel free to check my portfolio or reach out using the following channels
 
 ➔ [Integrate a Bootstrap File Upload Utility into Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-into-django/)
 (Last updated by Wayne Lambert on 2020-09-09)
-
-
-➔ [Finding The Largest Or Smallest N Items In Python](https://waynelambert.dev/blog/post/finding-largest-smallest-n-items/)
-(Last updated by Wayne Lambert on 2020-10-02)
-
-
-➔ [How To Keep A History Of The N Last Items In Python](https://waynelambert.dev/blog/post/how-to-keep-history-last-n-items-python/)
-(Last updated by Wayne Lambert on 2020-10-02)
 
