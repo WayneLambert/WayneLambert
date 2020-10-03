@@ -9,7 +9,7 @@ I'm passionate about web development with Django and Python. I also enjoy analys
 
 #### Links
 
-Please feel free to check my portfolio or reach out using the following channels.
+Please feel free to <a href="https://waynelambert.dev/portfolio">check out my portfolio</a> or reach out using the following channels.
 
 <a href="https://waynelambert.dev/"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/home.svg" width="39" height="36"/></a>
 <a href="https://waynelambert.dev/blog/"><img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/github-profile/blog.svg" width="39" height="36" /></a>
