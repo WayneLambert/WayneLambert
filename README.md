@@ -20,6 +20,10 @@ Please feel free to <a href="https://waynelambert.dev/portfolio">check out my po
 
 #### Latest Blog Posts
 
+➔ [Integrate a Bootstrap File Upload Utility in Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-into-django/)
+(Last updated by Wayne Lambert on 2020-10-04)
+
+
 ➔ [How to Implement List View Pagination With Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
 (Last updated by Wayne Lambert on 2020-10-03)
 
@@ -34,8 +38,4 @@ Please feel free to <a href="https://waynelambert.dev/portfolio">check out my po
 
 ➔ [Quick Tip: Vs Code Snippet For Python Developers](https://waynelambert.dev/blog/post/quick-tip-vs-code-snippet-for-python-developers/)
 (Last updated by Wayne Lambert on 2020-09-29)
-
-
-➔ [Integrate a Bootstrap File Upload Utility into Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-into-django/)
-(Last updated by Wayne Lambert on 2020-09-09)
 
