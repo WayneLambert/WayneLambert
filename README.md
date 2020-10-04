@@ -20,22 +20,22 @@ Please feel free to <a href="https://waynelambert.dev/portfolio">check out my po
 
 #### Latest Blog Posts
 
-➔ [How To Keep A History Of The N Last Items In Python](https://waynelambert.dev/blog/post/how-to-keep-history-last-n-items-python/)
-(Last updated by Wayne Lambert on 2020-10-03)
+➔ [Calculating the Fibonacci Sequence in Python](https://waynelambert.dev/blog/post/fibonacci-sequence-algorithm-python/)
+(Last updated by Wayne Lambert on 2020-10-04)
 
 
-➔ [Finding The Largest Or Smallest N Items In Python](https://waynelambert.dev/blog/post/finding-largest-smallest-n-items/)
-(Last updated by Wayne Lambert on 2020-10-02)
+➔ [Finding the Largest or Smallest n Items in Python](https://waynelambert.dev/blog/post/finding-largest-smallest-n-items-in-python/)
+(Last updated by Wayne Lambert on 2020-10-04)
 
 
-➔ [Quick Tip: Vs Code Snippet For Python Developers](https://waynelambert.dev/blog/post/quick-tip-vs-code-snippet-for-python-developers/)
-(Last updated by Wayne Lambert on 2020-09-29)
+➔ [Quick Tip: VS Code Snippet for Python Developers](https://waynelambert.dev/blog/post/quick-tip-vs-code-snippet-for-python-developers/)
+(Last updated by Wayne Lambert on 2020-10-04)
 
 
-➔ [How To Implement List View Pagination With Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
-(Last updated by Wayne Lambert on 2020-09-23)
+➔ [How to Implement List View Pagination with Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
+(Last updated by Wayne Lambert on 2020-10-04)
 
 
-➔ [Integrate a Bootstrap File Upload Utility into Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-into-django/)
-(Last updated by Wayne Lambert on 2020-09-09)
+➔ [Integrate a Bootstrap File Upload Utility in Django](https://waynelambert.dev/blog/post/integrate-a-bootstrap-file-upload-utility-in-django/)
+(Last updated by Wayne Lambert on 2020-10-04)
 
