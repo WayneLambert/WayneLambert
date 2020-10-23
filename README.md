@@ -20,6 +20,10 @@ Please feel free to <a href="https://waynelambert.dev/portfolio">check out my po
 
 #### Latest Blog Posts
 
+➔ [How to Implement List View Pagination with Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
+(Last updated by Wayne Lambert on 2020-10-23)
+
+
 ➔ [Calculating the Fibonacci Sequence in Python](https://waynelambert.dev/blog/post/fibonacci-sequence-algorithm-python/)
 (Last updated by Wayne Lambert on 2020-10-04)
 
@@ -29,10 +33,6 @@ Please feel free to <a href="https://waynelambert.dev/portfolio">check out my po
 
 
 ➔ [Quick Tip: VS Code Snippet for Python Developers](https://waynelambert.dev/blog/post/quick-tip-vs-code-snippet-for-python-developers/)
-(Last updated by Wayne Lambert on 2020-10-04)
-
-
-➔ [How to Implement List View Pagination with Django](https://waynelambert.dev/blog/post/how-to-implement-list-view-pagination-with-django/)
 (Last updated by Wayne Lambert on 2020-10-04)
 
 
