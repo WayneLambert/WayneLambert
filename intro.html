@@ -6,6 +6,8 @@
  focused on building scalable, interactive, user-friendly,
  well tested web applications with Django.
 
+ <img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/django-github-readme.png" />
+
  Other than web development, other passions include sports,
  technology, and travelling.
 
