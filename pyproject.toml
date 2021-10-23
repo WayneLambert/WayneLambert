@@ -1,0 +1,82 @@
+# -- POETRY CONFIG ----------------------------------------------------------------------
+
+[tool.poetry]
+name = "GitHub Profile README"
+version = "1.0.0"
+description = "README for GitHub Profile"
+authors = ["Wayne Lambert <admin@waynelambert.dev>"]
+
+[tool.poetry.dependencies]
+python = "==3.9.7"
+feedparser = "==6.0.8"
+requests = "==2.26.0"
+beautifulsoup4 = "==4.10.0"
+
+[tool.poetry.dev-dependencies]
+bpython = "==0.21"
+rich = "==10.11.0"
+pylint = "==2.10.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+# -- PYLINT CONFIG ----------------------------------------------------------------------
+
+[tool.pylint.master]
+jobs = "0"  # Auto-detect the number of processors
+fail-under = "10"
+ignore-patterns = '''
+  \.eggs
+  |_build
+  |\.git
+  |\.hg
+  |\.mypy_cache
+  |\.tox
+  |\.venv
+  |buck-out
+  |build
+  |conf.py
+  |dist
+'''
+persistent = "no"
+load-plugins = ["pylint_django"]
+limit-inference-results = "100"
+suggestion-mode = "yes"
+unsafe-load-any-extension = "no"
+extension-pkg-whitelist = ""
+exit-zero = "no"
+from-stdin = "no"
+
+[tool.pylint.message_control]
+enable = [
+  "F",  # Fatal
+  "E",  # Error
+  "W",  # Warning
+  "R",  # Refactor
+  "C",  # Convention
+  "I",  # Informational
+]
+disable = """
+  attribute-defined-outside-init,
+  line-too-long,
+  missing-class-docstring,
+  missing-function-docstring,
+  missing-module-docstring,
+  no-self-use,
+"""
+
+[tool.pylint.reports]
+reports = "no"
+msg-template = "{path}:{line}: [{msg_id}({symbol}), {obj}] {msg}"
+output-format = "colorized"
+score = "no"
+
+[tool.pylint.format]
+max-line-length = "99"
+
+[tool.pylint.basic]
+good-names = "_, qs, pk, f"
+
+[tool.pylint.miscellaneous]
+notes="TODO, FIXME, DEBUG"
