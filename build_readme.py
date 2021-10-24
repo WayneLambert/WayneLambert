@@ -10,7 +10,7 @@ def get_opening_text() -> str:
     return Path('intro.html').read_text()
 
 
-def get_latest_blog_posts() -> list:
+def get_latest_blog_posts() -> List:
     xml_feed_location = "https://waynelambert.dev/blog/sitenews/atom/"
     return feedparser.parse(xml_feed_location)["entries"][:5]
 
