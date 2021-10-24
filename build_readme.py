@@ -1,38 +1,33 @@
+from __future__ import absolute_import
+
 from pathlib import Path
+from typing import List
 
 import feedparser
 
 
+def get_opening_text() -> str:
+    return Path('intro.html').read_text()
+
+
+def get_latest_blog_posts() -> List:
+    xml_feed_location = "https://waynelambert.dev/blog/sitenews/atom/"
+    return feedparser.parse(xml_feed_location)["entries"][:5]
+
+
+def replace_post_metadata(intro_html: str, posts: List) -> str:
+    for idx, post in enumerate(posts):
+        intro_html = intro_html.replace(f'[link_{idx + 1}]', post.links[0]['href'])
+        intro_html = intro_html.replace(f'[title_{idx + 1}]', post.title)
+    return intro_html
+
+
 def main():
-    chunks = list(get_opening_text())
-    chunks.append('')
-    chunks.extend(get_latest_blog_posts())
+    intro_html = get_opening_text()
+    posts = get_latest_blog_posts()
+    final_html = replace_post_metadata(intro_html, posts)
     readme = Path(__file__).parent / "README.md"
-    readme.write_text("\n".join(chunks))
-
-
-def get_opening_text() -> list:
-    s = []
-    with open('intro.txt', 'r') as file:
-        [s.append(line.strip()) for line in file.readlines()]
-    return s
-
-
-def build_latest_blog_posts_str(posts: list) -> str:
-    s = []
-    for post in posts:
-        s.append(f"{chr(10132)} [{post['title']}]({post['link']})")
-        s.append(f"(Last updated by {post['author']} on {post['updated'].split('T')[0]})")
-        s.append('\n')
-    return s
-
-
-def get_latest_blog_posts() -> list:
-    XML_FEED_LOCATION = "https://waynelambert.dev/blog/sitenews/atom/"
-    chunks = ["#### Latest Blog Posts\n"]
-    posts = feedparser.parse(XML_FEED_LOCATION)["entries"][:5]
-    chunks.extend(build_latest_blog_posts_str(posts))
-    return chunks
+    readme.write_text(final_html)
 
 
 if __name__ == "__main__":
