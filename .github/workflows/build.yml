@@ -46,7 +46,7 @@ jobs:
 
     - name: Update README
       run: |-
-        poetry run build_readme.py
+        poetry run python build_readme.py
         cat README.md
 
     - name: Commit and push if README changed
