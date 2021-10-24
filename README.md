@@ -1,12 +1,12 @@
-<pre>
+## Welcome to my GitHub Profile!
 
- <strong>Welcome to my GitHub Profile!</strong>
+<pre>
 
  I'm a Python 🐍 Web Engineer based in <a href="https://www.google.co.uk/maps/place/Birmingham/@52.4773545,-2.0040543,11z">Birmingham</a>, 󠁧󠁢󠁥󠁮󠁧🇬🇧
  focused on building scalable, interactive, user-friendly,
- well tested web applications with Django.
+ and well tested web applications with Django.
 
- <img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/django-github-readme.png" />
+<img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/python-django-portfolio-github.png" alt="Python and Django" />
 
  Other than web development, other passions include sports,
  technology, and travelling.
