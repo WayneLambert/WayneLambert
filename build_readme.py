@@ -7,7 +7,7 @@ import feedparser
 
 
 def get_opening_text() -> str:
-    return Path('intro.html').read_text()
+    return Path('intro.html').read_text(encoding='utf-8')
 
 
 def get_latest_blog_posts() -> List:
