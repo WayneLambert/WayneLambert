@@ -1,9 +1,8 @@
-## Senior Python/Django Engineer
+## 🐍 Senior Python / Django Engineer
 
 <pre>
 
- 🐍 <strong style="color:#1E425E;">Python Web Engineer</strong> | <strong style="color:#0C4B33;">Django Developer</strong>
- 📍 Birmingham, UK
+ 📍 Peterborough, UK
  📝 Builds intuitive, interactive, and scalable web apps
 
 <img src="https://wl-portfolio.s3.eu-west-2.amazonaws.com/images/python-django-logo.png" alt="Python and Django" />
