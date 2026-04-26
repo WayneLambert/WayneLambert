@@ -2,9 +2,9 @@
 
 ## 🐍 Senior Software Engineer (Python / Django)
 
-I am focused on building scalable, production-grade systems.
+I build scalable, production-grade systems across application, data, and infrastructure layers.
 
-I work across application, data, and infrastructure layers, with a particular interest in distributed systems, high-volume data processing, and platform reliability. Most of my work centres around designing systems that behave predictably under real-world conditions.
+My work focuses on distributed systems, high-volume data processing, platform reliability, and designing software that behaves predictably under real-world conditions.
 
 ## My Work Approach
 
@@ -14,7 +14,7 @@ I tend to take a pragmatic approach balancing ideal architecture with real-world
 
 ## Approach to AI
 
-I use AI tools primarily for efficient research and exploration, but I architect and implement solutions myself. For me, understanding how a system works end-to-end is essential in its ongoing maintenance, especially when working on complex or high-scale systems.
+I use AI tools primarily for efficient research and exploration, but I design and implement solutions myself. For me, understanding how a system works end-to-end is essential to maintaining and evolving it, especially when working on complex or high-scale systems.
 
 ## Core Areas
 
@@ -23,4 +23,5 @@ I use AI tools primarily for efficient research and exploration, but I architect
 - System performance and optimisation
 - Multi-tenant architectures
 - Efficient containerised environments (Docker)
+- Infrastructure as Code with Terraform and AWS
 - Python & Django applications
