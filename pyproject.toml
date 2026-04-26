@@ -1,23 +1,24 @@
-# -- POETRY CONFIG ----------------------------------------------------------------------
+# -- UV CONFIG --------------------------------------------------------------------------
 
-[tool.poetry]
+[project]
 name = "GitHub Profile README"
 version = "1.0.0"
-description = "README for GitHub Profile"
-authors = ["Wayne Lambert <wayne.a.lambert@gmail.com>"]
+requires-python = "==3.14.3"
 
-[tool.poetry.dependencies]
-python = "==3.9.9"
-feedparser = "==6.0.8"
+dependencies = [
+  "rich==15.0.0",
+  "feedparser==15.0.0",
+]
 
-[tool.poetry.dev-dependencies]
-bpython = "==0.22.1"
-rich = "==10.16.1"
-pylint = "==2.12.2"
+[dependency-groups]
+dev = [
+  "bpython>=0.26,<0.27",
+  "ruff>=0.15.9,<0.16.0"
+]
 
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+[tool.uv]
+package = false
+
 
 # -- PYLINT CONFIG ----------------------------------------------------------------------
 
